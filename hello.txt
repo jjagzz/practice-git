@@ -1,1 +1,1 @@
-Hello Github!
+This is my first time playing with GIT and it's super interesting
